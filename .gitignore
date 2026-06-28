@@ -1,5 +1,6 @@
 **/.DS_Store
 shes/git-shells/*
 !shes/git-shells/copy-git-config.sh
+!shes/git-shells/git-selective-gpg-sign.sh
 shes/wall_proxy/setup.sh
 
